@@ -9,6 +9,9 @@ Hey...
 update! update!! update!!!
 Now i'm into Data Science. That the path I have chosen.
 God's blessing on me.
+
+Dude... cyber security is bae
+
 <!---
 ilesanmi-code/ilesanmi-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
